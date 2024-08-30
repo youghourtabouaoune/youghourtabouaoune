@@ -6,7 +6,8 @@ My fascination with data lies in the thrill of diving deep into complex datasets
 
 When I'm not immersed in code or data, you'll find me indulging in my hobbies: Gym and basketball and gaming. Whether it's executing a perfect strategy in a game or making that winning shot on the court, I believe in giving my all and savoring every moment.
 
-Currently, I'm pursuing a master's degree in data science, aiming to blend my love for development and data into innovative solutions. With every line of code I write and every dataset I analyze, I strive to make a positive impact on the digital landscape.
+I just finished my master's degree in AI and Data Science at UQAM. During my studies, I completed an internship as an AI developer at the Ministry of Health of Quebec, where I had the opportunity to contribute to impactful projects. They have since kept me on as a permanent AI consultant, where I now work on large language models (LLMs), develop AI applications, and fine-tune models to meet specific needs. My work is focused on driving innovation and creating solutions that make a real difference.
+
 
 Looking forward to connecting, collaborating, and sharing our mutual passions!
 
@@ -16,13 +17,11 @@ Looking forward to connecting, collaborating, and sharing our mutual passions!
 ⚡ **Fun fact:** I love Gym and gaming
 
 ## Connect with me:
-- [Twitter: ]
-- [LinkedIn: )
-- [Instagram: )
-- [Discord: ](#)
+- [LinkedIn: youghourta-bouaoune-309797122](https://www.linkedin.com/in/youghourta-bouaoune-309797122/)
+- [Instagram: Youghourta bouaoune](https://www.instagram.com/jughurta.bouaoune_yogo/)
+- [Discord: morgan_yog](#)
 
 ## Languages and Tools:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -33,5 +32,13 @@ Looking forward to connecting, collaborating, and sharing our mutual passions!
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![Databricks](https://img.shields.io/badge/Databricks-E34F26?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD300?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0B4F71?style=for-the-badge&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-008080?style=for-the-badge&logo=codeforces&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-9400D3?style=for-the-badge&logo=whispersystems&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
