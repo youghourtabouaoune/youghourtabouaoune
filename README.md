@@ -17,9 +17,10 @@ Looking forward to connecting, collaborating, and sharing our mutual passions!
 ⚡ **Fun fact:** I love Gym and gaming
 
 ## Connect with me:
-- [LinkedIn: youghourta-bouaoune-309797122](https://www.linkedin.com/in/youghourta-bouaoune-309797122/)
-- [Instagram: Youghourta bouaoune](https://www.instagram.com/jughurta.bouaoune_yogo/)
-- [Discord: morgan_yog](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youghourta-bouaoune-309797122/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jughurta.bouaoune_yogo/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yogo_28/)
+
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
