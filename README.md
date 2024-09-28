@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bouaoune Youghourta, alias YoGo
+# Hi 👋, I'm Bouaoune Youghourta, alias JuJu
 
 I am a passionate developer with a strong focus on AI and data science. In the fast-paced world of technology, I find joy in uncovering insights from data, constantly refining my skills, and approaching each project with a fresh perspective.
 
